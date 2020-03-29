@@ -1,0 +1,10 @@
+{
+    "name": "boilerplate",
+    "version": "1.0.0",
+    "description": "A basic boilerplate for simple projects",
+    "scripts": {
+        "base": "touch README.md index.html && mkdir css scss js images && touch js/main.js scss/style.scss"
+    },
+    "author": "https://github.com/denzeltl/",
+    "license": "ISC"
+}
