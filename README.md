@@ -12,8 +12,5 @@ View project [here](PROJECT URL)
 
 ## Things Learned:
 
--   LEARNINGS
-
-## To Do:
-
--   TODOS
+-   Adding `:root {}` will let you assign and create variable names with values for your css
+-   The `:not()` selector on css will let you assign classes to all other elements except for the element included inside your `:not()` selector
