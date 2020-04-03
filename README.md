@@ -23,3 +23,4 @@ View project [here](https://denzeltl.github.io/tic-tac-toe/)
 ## Todo:
 
 -   Change to color green on winning combination
+-   Remove hover if someone won
