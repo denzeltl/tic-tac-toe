@@ -2,11 +2,11 @@
 
 A simple Tic Tac Toe game based from _Web Dev Simplified_'s tutorial on [YouTube](https://www.youtube.com/watch?v=Y-GkMjUZsmM).
 
-View project [here](PROJECT URL)
+View project [here](https://denzeltl.github.io/tic-tac-toe/)
 
-**Built with:** _LANGUAGES_
+**Built with:** _HTML, SCSS, JavaScript (ES6)_
 
-**Completed on:** _mm/dd/yyyy_
+**Completed on:** _03/04/2020_
 
 ---
 
