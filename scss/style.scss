@@ -102,6 +102,12 @@ body {
 
 .grid.x {
     cursor: not-allowed;
+    &.green {
+        &::before,
+        &::after {
+            background-color: rgb(68, 140, 79);
+        }
+    }
     &::before,
     &::after {
         content: "";
@@ -121,6 +127,14 @@ body {
 
 .grid.o {
     cursor: not-allowed;
+    &.green {
+        &::before {
+            background-color: rgb(68, 140, 79);
+        }
+        &::after {
+            background-color: #ffe5e5;
+        }
+    }
     &::before,
     &::after {
         content: "";
