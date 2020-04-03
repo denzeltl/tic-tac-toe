@@ -86,6 +86,7 @@ function startGame() {
         });
     });
 
+    xTurn = true;
     resultScreen.classList.add("hidden");
     board.className = "board x";
     grids.forEach(grid => {
